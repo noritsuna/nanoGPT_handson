@@ -4,9 +4,6 @@ logs/
 csv_logs/
 
 # file extensions
-*.pkl
-*.bin
-*.txt
 
 # checkpoint directories
 out*/
